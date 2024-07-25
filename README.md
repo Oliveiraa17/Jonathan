@@ -48,7 +48,6 @@ MINHAS SKILLS:
 </div>
 <div align="center">
 
-!ashutosh's github activity graph
 
 </div>
 
