@@ -1,9 +1,6 @@
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/733aec70-cafb-4bd5-93fe-856e044f6be6"/>
 <br>
 <br>
-<br>
-<br>
-
 <div align="center">
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Bem+vindo+ao+meu+Github)](https://git.io/typing-svg)
@@ -52,7 +49,14 @@ MINHAS SKILLS:
 </div>
 
 <div align="center">
-<img widht=100% botton=50px src="https://github.com/Orabonii/Orabonii/assets/70423924/02c7479c-37ee-4e87-b9df-b8423344d038"/>
+<br>
+<br>
+<br>
+
+
+  
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/eddca6ab-4cfe-495f-aefa-a3571a178731"/>
+
 
 </div>
     
